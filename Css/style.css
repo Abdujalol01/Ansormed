@@ -5,6 +5,9 @@
   font-weight: 700;
   font-style: normal;
 }
+html{
+  scroll-behavior: smooth;
+}
 *{
   box-sizing: border-box;
 }
